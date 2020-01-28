@@ -1,3 +1,3 @@
-from belly_button.app import db
+from belly-button.app import db
 
 db.create_all()
